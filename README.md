@@ -27,28 +27,32 @@ an object sorting Robot is made using small 3D printed parts and Servo motors wh
  - 3D printed parts of 4 DOF Robotic Arm
  - 4 MG 90 Servo motors
  - NodeMCU
- - LCD
+ - LCD module
  - Breadboard
  - jumper wires
  - different shaped objects
  - LED's for indication
+ - External camera (webcam)
  ### Software &#8594; ###
  - python
  - weight and configuration file of yolo (please download weight file - [Weight file](https://pjreddie.com/media/files/yolov3.weights))
  - open cv library
  - Arduino ide
  - Thingspeak cloud
+ - BLYNK app
  - Web browser (to display web-panel)
 ## Working :gear: &#8594; ##
-1. upload the scatch in nodemcu also make changes for wifi ssid, password and thing speak write API's.
+1. Upload the sketch(robo_sort_final) in nodemcu also make changes for wifi ssid, password and thing speak write API's and remaining user's variable data.
 2. ESP8266 will connect with the wifi and display the local IP address of webserver in the LCD.
-3. open any web browser and enter IP address and allow access to camera (i have used separate webcam but you can allow access to laptop camera)
-4. on the webpanel, you can move slider to control robotic arm, pick and drop object or sort left /right manually using buttons.
-5. when you turn off manual control then automatic sorting will begin. 
-6. run the python script, it will turn on webcam which will going to detect object
-7. whenever our pre defined objects (toy elephent,zebra , sharpner or eraser in my case) will detected it will send different data thing speak cloud
-8. nodeMCU will fetch the data from cloud and move the robot using series of algorithm and update the data in the webpanel
-9. it will move continueously untill we press enter button in our keyboard (null request) considering it to be implemented in factories/ industries.
+3. Open any web browser and enter IP address and allow access to camera (i have used separate webcam but you can allow access to laptop camera)
+4. On the webpanel, you can move slider to control robotic arm, pick and drop object or sort left /right manually using buttons.
+5. When you turn off manual control then automatic sorting will begin. 
+6. Run the python script, it will turn on webcam which will going to detect object
+7. Whenever our pre defined objects (toy elephent,zebra , sharpner or eraser in my case) will detected it will send different data thing speak cloud
+8. NodeMCU will fetch the data from cloud and move the robot using series of algorithm and update the data in the webpanel
+9. It will move continueously untill we press enter button in our keyboard (null request) considering it to be implemented in factories/ industries.
+10. At the end click mail button , it will send the whole data of object detection as a link on user's mail ID.
  
 ## Simulation and video  &#8594; ##
- [Video link](https://drive.google.com/file/d/1TF6mAdieY1y7LwcNcP_3ViE0T7ZFZaRc/view?usp=sharing)
+ [Old Video](https://drive.google.com/file/d/1TF6mAdieY1y7LwcNcP_3ViE0T7ZFZaRc/view?usp=sharing)
+ [Updated video}()
