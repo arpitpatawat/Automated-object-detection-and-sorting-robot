@@ -41,7 +41,7 @@ an object sorting Robot is made using small 3D printed parts and Servo motors wh
  - Thingspeak cloud
  - BLYNK app
  - Web browser (to display web-panel)
-## installation Working :gear: &#8594; ##
+## installation & Working :gear: &#8594; ##
 1. Upload the sketch(robo_sort_final) in nodemcu also make changes for wifi ssid, password and thing speak write API's and remaining user's variable data.
 2. ESP8266 will connect with the wifi and display the local IP address of webserver in the LCD.
 3. Open any web browser and enter IP address and allow access to camera (i have used separate webcam but you can allow access to laptop camera)
