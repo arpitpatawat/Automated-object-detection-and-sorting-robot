@@ -54,6 +54,12 @@ an object sorting Robot is made using small 3D printed parts and Servo motors wh
 10. At the end click mail button , it will send the whole data of object detection as a link on user's mail ID.
  
 ## Simulation and video  &#8594; ##
- [Old Video](https://drive.google.com/file/d/1TF6mAdieY1y7LwcNcP_3ViE0T7ZFZaRc/view?usp=sharing)
+ this was the initial part of the project -> [Old Video](https://drive.google.com/file/d/1TF6mAdieY1y7LwcNcP_3ViE0T7ZFZaRc/view?usp=sharing) .
  
- [Updated video}()
+ It has been updated further.  
+- [part 1](https://drive.google.com/file/d/1bpnN1DzF4hiwXhy1qhL5fj3gVxKpSGxg/view?usp=sharing).
+- [Part 2](https://drive.google.com/file/d/1bpnN1DzF4hiwXhy1qhL5fj3gVxKpSGxg/view?usp=sharing).
+- [part 3](https://drive.google.com/file/d/1lMTzhMYUJX97SdcrRcfSsxMbIExO5GUv/view?usp=sharing). 
+- [part 4](https://drive.google.com/file/d/1wlPrEMYaEXFvIInjsboRmzkDN_ZBHDEw/view?usp=sharing). 
+- [final part](https://drive.google.com/file/d/1cmV0HM9TzIhTqHFFVLiAb00u7v9EkCPl/view?usp=sharing)
+
