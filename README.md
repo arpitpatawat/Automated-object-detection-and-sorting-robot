@@ -2,11 +2,14 @@
  ## Introduction :rocket: &#8594; ##
 an object sorting Robot is made using small 3D printed parts and Servo motors which uses object detection algorithm to identify the object type and then sort accordingly
 - Works for upto 80 different objects
-- works on IoT
 - Real time detection and sorting
 - Manual and Automatic control
 - Webpanel to control it from remote place
 - report whole day activity by sending mail 
+- controlling via BLYNK app
+- complete video feed for App/Web work
+
+ ## Project Images ##
 ![alt text](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/c0e5f0d4ec5d133fbe3688b8ac6d9976/large.png) 
 ![alt text](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/88b4a7b5143113807b57a064004cae8d/large.png)
 <span>
@@ -15,6 +18,8 @@ an object sorting Robot is made using small 3D printed parts and Servo motors wh
  </span>
 
 ![web-panel](https://user-images.githubusercontent.com/75129076/171139512-1f2c94c5-eceb-4f28-b53a-bc11d6079969.png)
+<span><img src ="https://github.com/arpitpatawat/Automated-object-detection-and-sorting-robot/blob/main/image11.jpeg" height = "600" width = "400"/>
+<img src ="https://github.com/arpitpatawat/Automated-object-detection-and-sorting-robot/blob/main/image6.png" height = "600" width = "600"></span>
 
 
 ## Components :robot: &#8594; ##
@@ -30,11 +35,10 @@ an object sorting Robot is made using small 3D printed parts and Servo motors wh
  ### Software &#8594; ###
  - python
  - weight and configuration file of yolo (please download weight file - [Weight file](https://pjreddie.com/media/files/yolov3.weights))
-
  - open cv library
  - Arduino ide
  - Thingspeak cloud
- - Web broser (to display web-panel)
+ - Web browser (to display web-panel)
 ## Working :gear: &#8594; ##
 1. upload the scatch in nodemcu also make changes for wifi ssid, password and thing speak write API's.
 2. ESP8266 will connect with the wifi and display the local IP address of webserver in the LCD.
