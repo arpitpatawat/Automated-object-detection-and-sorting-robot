@@ -3,7 +3,7 @@
 #include <BlynkSimpleEsp8266.h>
 #include <Servo.h>
 
-char auth[] = "PVVuwLVxVdY15vYelMXN1s0L6NwE1Icc";  //Auth token id from app
+char auth[] = "Enter blynk auth id";  //Auth token id from app
 char ssid[] = "i"; // Wifi username
 char pass[] = "12345678"; //wifi pass
  
