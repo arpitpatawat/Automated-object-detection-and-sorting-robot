@@ -10,8 +10,8 @@ an object sorting Robot is made using small 3D printed parts and Servo motors wh
 ![alt text](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/c0e5f0d4ec5d133fbe3688b8ac6d9976/large.png) 
 ![alt text](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/88b4a7b5143113807b57a064004cae8d/large.png)
 <span>
-<img src="https://user-images.githubusercontent.com/75129076/171142355-81187dfd-a199-4ea8-ae32-457970cd61ed.jpeg" width = "400">
-<img src="https://user-images.githubusercontent.com/75129076/171142361-e83f6bd8-2d03-4d26-92fe-243212fa1dca.jpeg" width = "400">
+<img src="https://user-images.githubusercontent.com/75129076/171142355-81187dfd-a199-4ea8-ae32-457970cd61ed.jpeg" width = "500">
+<img src="https://user-images.githubusercontent.com/75129076/171142361-e83f6bd8-2d03-4d26-92fe-243212fa1dca.jpeg" width = "500">
  </span>
 
 ![web-panel](https://user-images.githubusercontent.com/75129076/171139512-1f2c94c5-eceb-4f28-b53a-bc11d6079969.png)
