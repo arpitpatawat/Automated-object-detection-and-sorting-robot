@@ -19,7 +19,7 @@ an object sorting Robot is made using small 3D printed parts and Servo motors wh
 
 ![web-panel](https://user-images.githubusercontent.com/75129076/171139512-1f2c94c5-eceb-4f28-b53a-bc11d6079969.png)
 <span><img src ="https://github.com/arpitpatawat/Automated-object-detection-and-sorting-robot/blob/main/image11.jpeg" height = "600" width = "400"/>
-<img src ="https://github.com/arpitpatawat/Automated-object-detection-and-sorting-robot/blob/main/image6.png" height = "600" width = "600"></span>
+<img src ="https://github.com/arpitpatawat/Automated-object-detection-and-sorting-robot/blob/main/image6.png" height = "600" width = "500"></span>
 
 
 ## Components :robot: &#8594; ##
